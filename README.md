@@ -3,7 +3,7 @@ markdown
 
 Adding the car’s model name reduced mean absolute error from **$5,564 to $4,296** on the test set, a **23% reduction** compared with the log price model that omitted the model name.
 
-[Open the Jupyter notebook](used_car_price_prediction.ipynb)
+[Open the Jupyter notebook](used_car_price_prediction%20%281%29.ipynb)
 
 ## What I tested
 
