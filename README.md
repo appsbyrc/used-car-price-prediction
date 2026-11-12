@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Used Car Price Prediction with Linear Regression
 
 Adding the car’s model name reduced mean absolute error from **$5,564 to $4,296** on the test set, a **23% reduction** compared with the log price model that omitted the model name.
@@ -18,4 +18,3 @@ I used the same 3,093 training rows and 774 test rows for all three comparisons:
 ## What I found
 
 The model trained on log prices with the car’s model name had the lowest error on this test split. For the 24 test cars whose model names were absent from the training data, however, adding that feature increased average error. Training directly on raw prices also increased overall error and produced 54 negative price estimates.
-
